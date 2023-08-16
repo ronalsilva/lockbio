@@ -1,6 +1,6 @@
 # Locke Bio Test
 
-This project was developed by Ronald Junger. The goal of this project is to test the developer's knowledge with TS + Prisma + docker technologies.
+This project was developed by Ronald Junger. This project aims to test the developer's knowledge of TS + Prisma + Docker technologies for future developers joining the company.
 
 ## To start the project 
 
